@@ -1,0 +1,67 @@
+{"properties": [
+  {
+    "name": "mail.smtp.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.host'"
+  },
+  {
+    "name": "mail.smtp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.port'"
+  },
+  {
+    "name": "mail.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.starttls.enable'"
+  },
+  {
+    "name": "mail.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.auth'"
+  },
+  {
+    "name": "bezkoder.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtExpirationMs'"
+  },
+  {
+    "name": "bezkoder.app.jwtRefreshExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtRefreshExpirationMs'"
+  },
+  {
+    "name": "bezkoder.app.jwtRefreshExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtRefreshExpirationMs'"
+  },
+  {
+    "name": "mail.smtp.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.username'"
+  },
+  {
+    "name": "mail.smtp.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.password'"
+  },
+  {
+    "name": "mail.sender.email",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.sender.email'"
+  },
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  },
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  },
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  }
+]}
